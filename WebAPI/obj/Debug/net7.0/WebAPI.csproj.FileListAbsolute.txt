@@ -1,0 +1,7 @@
+/home/Lemeson/Documentos/Angular/Fortt/WebAPI/obj/Debug/net7.0/WebAPI.csproj.AssemblyReference.cache
+/home/Lemeson/Documentos/Angular/Fortt/WebAPI/obj/Debug/net7.0/WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+/home/Lemeson/Documentos/Angular/Fortt/WebAPI/obj/Debug/net7.0/WebAPI.AssemblyInfoInputs.cache
+/home/Lemeson/Documentos/Angular/Fortt/WebAPI/obj/Debug/net7.0/WebAPI.AssemblyInfo.cs
+/home/Lemeson/Documentos/Angular/Fortt/WebAPI/obj/Debug/net7.0/WebAPI.csproj.CoreCompileInputs.cache
+/home/Lemeson/Documentos/Angular/Fortt/WebAPI/obj/Debug/net7.0/WebAPI.MvcApplicationPartsAssemblyInfo.cs
+/home/Lemeson/Documentos/Angular/Fortt/WebAPI/obj/Debug/net7.0/WebAPI.MvcApplicationPartsAssemblyInfo.cache
